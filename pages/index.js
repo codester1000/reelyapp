@@ -7,11 +7,13 @@ import Cool from '@/components/Cool'
 import Footer from '@/components/Footer'
 import Waitlist from '@/components/Waitlist'
 import Sell1 from '@/components/OCS/Sell1'
-import Own from '@/components/OCS/Own'
+import Own from '@/components/Own'
 import Engage from '@/components/OCS/Engage'
 import Watch from '@/components/OCS/Watch'
 import Earn from '@/components/OCS/Earn'
 import Simple from '@/components/Simple'
+import Link from 'next/link'
+
 
 export default function Home() {
   return (

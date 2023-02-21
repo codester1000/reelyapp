@@ -8,7 +8,7 @@ export default function Waitlist () {
 
 
   return (
-    <div className="container px-6 mx-auto">
+    <div className="container px-6 mx-auto pt-16" id="waitlist">
       <section className="mb-6 text-gray-800 text-center">
         <div className="flex flex-wrap justify-center">
           <div className="grow-0 shrink-0 flex-basis w-full lg:w-6/12 ">

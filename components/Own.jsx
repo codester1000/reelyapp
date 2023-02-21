@@ -1,6 +1,6 @@
 export default function Own () {
   return (
-    <section className="dark:bg-gray-800 dark:text-gray-100 mb-24">
+    <section className="dark:bg-gray-800 dark:text-gray-100">
       <div className="container flex flex-col justify-center p-6 mx-auto lg:flex-row lg:justify-between">
         <div className="flex flex-col justify-center p-6 text-center rounded-sm lg:text-left">
           <h1 className="text-5xl font-bold leading-none sm:text-6xl text-[#bf1922] mb-6">Own. Collect. Share.
