@@ -1,6 +1,9 @@
 export default function Simple () {
   return (
-    <div class="grid grid-cols-1 md:lg:xl:grid-cols-3 group">
+    <>
+    <h1 className="text-[3rem] text-center mt-16 tracking-tighter font-bold text-[#bf1922]">How does it work?</h1>
+
+    <div class="grid grid-cols-1 md:lg:xl:grid-cols-3 group -mt-5 mb-6">
       <div class="p-10 flex flex-col items-center text-center group cursor-pointer">
         <img class="w-10 h-10 rounded-full" src="/one.svg" alt="circle" />
         <p class="mt-2 text-xl text-slate-500">Sign up by simply entering your email</p>
@@ -18,6 +21,7 @@ export default function Simple () {
       </div>
       
     </div>
+    </>
     
   )
 }
