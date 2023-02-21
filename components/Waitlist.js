@@ -8,16 +8,15 @@ export default function Waitlist () {
 
 
   return (
-    <div className="container mb-24 px-6 mx-auto">
-      <section className="mb-32 text-gray-800 text-center">
+    <div className="container px-6 mx-auto">
+      <section className="mb-6 text-gray-800 text-center">
         <div className="flex flex-wrap justify-center">
           <div className="grow-0 shrink-0 flex-basis w-full lg:w-6/12 ">
             <div className="flex justify-center items-center mb-3">
               <img className={isActive ? 'spinner' : ''} src="/circle.svg" height="50px" width="50px"/>
             </div>
             <h2 className="text-3xl mb-6">Get early access by joining our waitlist!</h2>
-            <p>Once you're in, climb the ladder by inviting your friends or sharing on social media</p>
-            <p className="mb-6">The further you climb, the sooner you'll get access and reveal your scene</p>
+            <p className="mb-6">With your support we will lobby studios to provide film rights that allow us to create the experience and value that fans deserve! Pre-release supporters get exclusive early access to any future releases (and plenty of easter eggs…)</p>
 
             <div className="md:flex flex-row">
               <input

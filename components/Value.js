@@ -2,7 +2,7 @@ import Screen from "./Screen"
 export default function Value () {
   return (
     <>
-      <div className="h-40vw">
+      <div className="">
         <Screen />
       </div>
     </>

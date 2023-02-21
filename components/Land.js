@@ -26,7 +26,7 @@ const Land = () => {
           </div>
         </div>
         <div className="w-1/3 relative h-[600px] right-1/4 flex flex-col items-center justify-center">
-          <iframe src="https://streamable.com/e/kq5fyv?autoplay=1&nocontrols=1" width="100%" height="100%" frameborder="0" allowfullscreen allow="autoplay"></iframe>        
+          <iframe src="https://streamable.com/e/gg84df?autoplay=1&nocontrols=1" width="100%" height="100%" frameborder="0" allowfullscreen allow="autoplay"></iframe>        
         </div>
       </div>
 
